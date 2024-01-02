@@ -1,0 +1,19 @@
+.odd {
+  background-color: #FFBBBB;
+  font-family: 'Verdana', 'DejaVuSans', sans-serif;
+}
+
+#two {
+  color:#4444FF;
+  font-size:36px;
+}
+
+#three {
+  font-size:24px;
+}
+
+#four {
+  background-color:#55CC66;
+  font-size:24px;
+  font-weight:bold;
+}
